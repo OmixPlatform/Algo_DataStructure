@@ -48,6 +48,6 @@ def powerset(input):
     return len(ps),len(all)
             
         
-print(powerset("AAABBC"))
-print(allTilesCombinates("AAABBC"))
-#print(allTilesCombinates("AC"))
+#print(powerset("AAABBC"))
+#print(allTilesCombinates("AAABBC"))
+print(allTilesCombinates("AC"))
